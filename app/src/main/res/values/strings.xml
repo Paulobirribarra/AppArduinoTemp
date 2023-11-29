@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppArduinoTemp</string>
+    <string name="txtTemp">0</string>
+    <string name="txtHum">0</string>
+    <string name="textView4">Temperatura</string>
+    <string name="textView2">Humedad</string>
+</resources>
